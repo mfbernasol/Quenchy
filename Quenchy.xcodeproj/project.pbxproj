@@ -42,7 +42,7 @@
 		A9F78D0C23650AB700CB4229 = {
 			isa = PBXGroup;
 			children = (
-				A9F78D1723650AB700CB4229 /* Foody */,
+				A9F78D1723650AB700CB4229 /* Quenchy */,
 				A9F78D1623650AB700CB4229 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A9F78D1723650AB700CB4229 /* Foody */ = {
+		A9F78D1723650AB700CB4229 /* Quenchy */ = {
 			isa = PBXGroup;
 			children = (
 				A9F78D1823650AB700CB4229 /* AppDelegate.swift */,
@@ -67,7 +67,7 @@
 				A9F78D2623650AB900CB4229 /* Info.plist */,
 				A9F78D2C23650CCB00CB4229 /* Inceptionv3.mlmodel */,
 			);
-			path = Foody;
+			path = Quenchy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
