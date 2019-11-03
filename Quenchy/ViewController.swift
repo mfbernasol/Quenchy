@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Foody
+//  Quenchy
 //
 //  Created by Michael Bernasol on 10/26/19.
 //  Copyright © 2019 Michael Bernasol. All rights reserved.
